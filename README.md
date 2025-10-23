@@ -22,9 +22,9 @@ javac -version
 ### 3. Clone the project
 - git clone https://github.com/yourusername/yourproject.git
 - cd yourproject
-- 
+
 ### 4. Compile the project
 - javac -d bin src/*.java
-- 
+
 ### 5. Run it
 - java -cp bin MainClass
